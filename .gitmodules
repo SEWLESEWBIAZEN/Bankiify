@@ -1,0 +1,6 @@
+[submodule "Bankify.UI"]
+	path = Bankify.UI
+	url = https://github.com/SEWLESEWBIAZEN/bankify_ui.git
+[submodule "Bankify.Api"]
+	path = Bankify.Api
+	url = https://github.com/SEWLESEWBIAZEN/Bankify.Api.git
